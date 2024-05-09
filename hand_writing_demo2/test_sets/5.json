@@ -1,0 +1,5391 @@
+{
+    "json": [
+        [
+            {
+                "linewidth": 0.65178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975622.583,
+                "x": 20.383821,
+                "y": 31.517664
+            },
+            {
+                "linewidth": 0.6964286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.671,
+                "x": 20.46849,
+                "y": 31.602333
+            },
+            {
+                "linewidth": 0.72321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.671,
+                "x": 20.701326,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 20.807161,
+                "y": 32.17384
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 20.89183,
+                "y": 32.38551
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 20.95533,
+                "y": 32.576015
+            },
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 21.082333,
+                "y": 32.80885
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 21.272837,
+                "y": 33.084023
+            },
+            {
+                "linewidth": 0.75,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 21.336336,
+                "y": 33.189857
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.672,
+                "x": 21.357504,
+                "y": 33.35919
+            },
+            {
+                "linewidth": 0.71428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.674,
+                "x": 21.421005,
+                "y": 33.507362
+            },
+            {
+                "linewidth": 0.66071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.688,
+                "x": 21.442171,
+                "y": 33.549698
+            },
+            {
+                "linewidth": 0.57589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.689,
+                "x": 21.463339,
+                "y": 33.57086
+            },
+            {
+                "linewidth": 0.4642857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.701,
+                "x": 21.442171,
+                "y": 33.57086
+            },
+            {
+                "linewidth": 0.27232143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.717,
+                "x": 21.399837,
+                "y": 33.549698
+            },
+            {
+                "linewidth": 0.04464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.719,
+                "x": 21.31517,
+                "y": 33.486195
+            },
+            {
+                "linewidth": 0.04464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975622.733,
+                "x": 21.209335,
+                "y": 33.31686
+            }
+        ],
+        [
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975622.994,
+                "x": 21.886679,
+                "y": 30.20531
+            },
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975622.995,
+                "x": 22.119516,
+                "y": 30.184143
+            },
+            {
+                "linewidth": 0.76785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.007,
+                "x": 22.37352,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.011,
+                "x": 22.58519,
+                "y": 30.099476
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.018,
+                "x": 22.902695,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.033,
+                "x": 23.177866,
+                "y": 30.162975
+            },
+            {
+                "linewidth": 0.78571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.036,
+                "x": 23.516539,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.049,
+                "x": 23.834044,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.051,
+                "x": 24.151548,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.064,
+                "x": 24.49022,
+                "y": 30.14181
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.066,
+                "x": 24.85006,
+                "y": 30.184143
+            },
+            {
+                "linewidth": 0.77678573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.078,
+                "x": 25.12523,
+                "y": 30.26881
+            },
+            {
+                "linewidth": 0.77678573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.08,
+                "x": 25.379234,
+                "y": 30.289978
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.094,
+                "x": 25.61207,
+                "y": 30.332312
+            },
+            {
+                "linewidth": 0.78571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.096,
+                "x": 25.739073,
+                "y": 30.374645
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.108,
+                "x": 25.802574,
+                "y": 30.41698
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.122,
+                "x": 25.887241,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.123,
+                "x": 25.929577,
+                "y": 30.522816
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.139,
+                "x": 25.97191,
+                "y": 30.586315
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.142,
+                "x": 25.993076,
+                "y": 30.649817
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.154,
+                "x": 25.97191,
+                "y": 30.734486
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.157,
+                "x": 25.887241,
+                "y": 30.903822
+            },
+            {
+                "linewidth": 0.88839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.169,
+                "x": 25.739073,
+                "y": 31.242493
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.17,
+                "x": 25.527403,
+                "y": 31.517664
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.184,
+                "x": 25.294565,
+                "y": 31.835169
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.199,
+                "x": 24.998228,
+                "y": 32.25851
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.201,
+                "x": 24.701889,
+                "y": 32.554848
+            },
+            {
+                "linewidth": 0.7723214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.214,
+                "x": 24.42672,
+                "y": 32.872353
+            },
+            {
+                "linewidth": 0.7276786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.216,
+                "x": 24.151548,
+                "y": 33.126358
+            },
+            {
+                "linewidth": 0.6473214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.229,
+                "x": 23.961044,
+                "y": 33.295692
+            },
+            {
+                "linewidth": 0.45089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.231,
+                "x": 23.812876,
+                "y": 33.401527
+            },
+            {
+                "linewidth": 0.19642857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.246,
+                "x": 23.622374,
+                "y": 33.443863
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975623.25,
+                "x": 23.49537,
+                "y": 33.35919
+            }
+        ],
+        [
+            {
+                "linewidth": 0.54910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975623.398,
+                "x": 20.934164,
+                "y": 32.089172
+            },
+            {
+                "linewidth": 0.625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.4,
+                "x": 20.912996,
+                "y": 32.11034
+            },
+            {
+                "linewidth": 0.65178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.409,
+                "x": 20.95533,
+                "y": 32.131508
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.426,
+                "x": 21.061165,
+                "y": 32.11034
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.432,
+                "x": 21.272837,
+                "y": 32.11034
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.441,
+                "x": 21.717342,
+                "y": 32.04684
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.445,
+                "x": 22.16185,
+                "y": 31.941004
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.455,
+                "x": 22.542856,
+                "y": 31.835169
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.456,
+                "x": 22.987362,
+                "y": 31.792835
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.468,
+                "x": 23.368368,
+                "y": 31.708168
+            },
+            {
+                "linewidth": 0.8973214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.47,
+                "x": 23.70704,
+                "y": 31.687
+            },
+            {
+                "linewidth": 0.89285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.482,
+                "x": 24.003378,
+                "y": 31.665833
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.484,
+                "x": 24.193882,
+                "y": 31.665833
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.496,
+                "x": 24.299717,
+                "y": 31.665833
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.529,
+                "x": 24.405552,
+                "y": 31.687
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.531,
+                "x": 24.532555,
+                "y": 31.750502
+            },
+            {
+                "linewidth": 0.6651786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.532,
+                "x": 24.617222,
+                "y": 31.771667
+            },
+            {
+                "linewidth": 0.5625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.534,
+                "x": 24.63839,
+                "y": 31.771667
+            },
+            {
+                "linewidth": 0.45535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.547,
+                "x": 24.617222,
+                "y": 31.771667
+            },
+            {
+                "linewidth": 0.3169643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.551,
+                "x": 24.532555,
+                "y": 31.792835
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.563,
+                "x": 24.363218,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975623.566,
+                "x": 24.045713,
+                "y": 32.089172
+            }
+        ],
+        [
+            {
+                "linewidth": 0.48214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975623.633,
+                "x": 21.73851,
+                "y": 33.507362
+            },
+            {
+                "linewidth": 0.58035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.647,
+                "x": 21.802011,
+                "y": 33.486195
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.677,
+                "x": 21.907846,
+                "y": 33.443863
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.678,
+                "x": 22.07718,
+                "y": 33.38036
+            },
+            {
+                "linewidth": 0.76339287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.679,
+                "x": 22.246517,
+                "y": 33.31686
+            },
+            {
+                "linewidth": 0.80803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.679,
+                "x": 22.500523,
+                "y": 33.31686
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.693,
+                "x": 22.818027,
+                "y": 33.274525
+            },
+            {
+                "linewidth": 0.83928573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.694,
+                "x": 23.2202,
+                "y": 33.211025
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.708,
+                "x": 23.622374,
+                "y": 33.147522
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.71,
+                "x": 24.06688,
+                "y": 33.084023
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.722,
+                "x": 24.405552,
+                "y": 32.999355
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.723,
+                "x": 24.744225,
+                "y": 32.914684
+            },
+            {
+                "linewidth": 0.7276786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.736,
+                "x": 25.040562,
+                "y": 32.872353
+            },
+            {
+                "linewidth": 0.6651786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.755,
+                "x": 25.252232,
+                "y": 32.89352
+            },
+            {
+                "linewidth": 0.54464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.758,
+                "x": 25.379234,
+                "y": 32.872353
+            },
+            {
+                "linewidth": 0.46875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.769,
+                "x": 25.442736,
+                "y": 32.872353
+            },
+            {
+                "linewidth": 0.3705357,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.77,
+                "x": 25.48507,
+                "y": 32.851185
+            },
+            {
+                "linewidth": 0.1875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.787,
+                "x": 25.506235,
+                "y": 32.787685
+            },
+            {
+                "linewidth": 0.026785715,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975623.791,
+                "x": 25.48507,
+                "y": 32.703014
+            }
+        ],
+        [
+            {
+                "linewidth": 0.38392857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975623.982,
+                "x": 22.58519,
+                "y": 30.607483
+            },
+            {
+                "linewidth": 0.3794643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.984,
+                "x": 22.564022,
+                "y": 30.586315
+            },
+            {
+                "linewidth": 0.3794643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.995,
+                "x": 22.564022,
+                "y": 30.543982
+            },
+            {
+                "linewidth": 0.3705357,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975623.998,
+                "x": 22.58519,
+                "y": 30.48048
+            },
+            {
+                "linewidth": 0.33482143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.01,
+                "x": 22.58519,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.32589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.012,
+                "x": 22.606358,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.33035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.023,
+                "x": 22.58519,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.33035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.026,
+                "x": 22.58519,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.36160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.038,
+                "x": 22.58519,
+                "y": 30.41698
+            },
+            {
+                "linewidth": 0.3794643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.053,
+                "x": 22.58519,
+                "y": 30.41698
+            },
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.055,
+                "x": 22.58519,
+                "y": 30.41698
+            },
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.069,
+                "x": 22.58519,
+                "y": 30.395813
+            },
+            {
+                "linewidth": 0.38839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.07,
+                "x": 22.58519,
+                "y": 30.395813
+            },
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.083,
+                "x": 22.564022,
+                "y": 30.332312
+            },
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.084,
+                "x": 22.564022,
+                "y": 30.26881
+            },
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.1,
+                "x": 22.606358,
+                "y": 30.184143
+            },
+            {
+                "linewidth": 0.4017857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.104,
+                "x": 22.627523,
+                "y": 30.120642
+            },
+            {
+                "linewidth": 0.42410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.116,
+                "x": 22.648691,
+                "y": 30.078308
+            },
+            {
+                "linewidth": 0.46875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.119,
+                "x": 22.669857,
+                "y": 30.05714
+            },
+            {
+                "linewidth": 0.52678573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.13,
+                "x": 22.669857,
+                "y": 30.05714
+            },
+            {
+                "linewidth": 0.57589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.143,
+                "x": 22.669857,
+                "y": 30.05714
+            },
+            {
+                "linewidth": 0.6160714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.144,
+                "x": 22.669857,
+                "y": 30.078308
+            },
+            {
+                "linewidth": 0.65178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.172,
+                "x": 22.669857,
+                "y": 30.078308
+            },
+            {
+                "linewidth": 0.68303573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.175,
+                "x": 22.691025,
+                "y": 30.099476
+            },
+            {
+                "linewidth": 0.7098214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.176,
+                "x": 22.712193,
+                "y": 30.120642
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.177,
+                "x": 22.754526,
+                "y": 30.184143
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.19,
+                "x": 22.79686,
+                "y": 30.226477
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.192,
+                "x": 22.818027,
+                "y": 30.26881
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.205,
+                "x": 22.902695,
+                "y": 30.459314
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.22,
+                "x": 22.966196,
+                "y": 30.882654
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.222,
+                "x": 22.966196,
+                "y": 31.305994
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.235,
+                "x": 22.987362,
+                "y": 31.792835
+            },
+            {
+                "linewidth": 0.92410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.237,
+                "x": 23.029697,
+                "y": 32.279675
+            },
+            {
+                "linewidth": 0.91964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.25,
+                "x": 23.072031,
+                "y": 32.68185
+            },
+            {
+                "linewidth": 0.92410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.253,
+                "x": 23.135532,
+                "y": 33.295692
+            },
+            {
+                "linewidth": 0.91964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.265,
+                "x": 23.114365,
+                "y": 33.909534
+            },
+            {
+                "linewidth": 0.91071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.268,
+                "x": 23.114365,
+                "y": 34.502213
+            },
+            {
+                "linewidth": 0.91071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.279,
+                "x": 23.135532,
+                "y": 34.967884
+            },
+            {
+                "linewidth": 0.90625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.295,
+                "x": 23.135532,
+                "y": 35.391224
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.299,
+                "x": 23.177866,
+                "y": 35.814564
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.31,
+                "x": 23.199034,
+                "y": 36.21674
+            },
+            {
+                "linewidth": 0.7723214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.313,
+                "x": 23.177866,
+                "y": 36.61891
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.326,
+                "x": 23.177866,
+                "y": 36.978752
+            },
+            {
+                "linewidth": 0.51785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.329,
+                "x": 23.177866,
+                "y": 37.211586
+            },
+            {
+                "linewidth": 0.2857143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.339,
+                "x": 23.177866,
+                "y": 37.402092
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975624.341,
+                "x": 23.156698,
+                "y": 37.52909
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975624.353,
+                "x": 23.114365,
+                "y": 37.571426
+            }
+        ],
+        [
+            {
+                "linewidth": 0.4419643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975627.427,
+                "x": 35.539394,
+                "y": 30.98849
+            },
+            {
+                "linewidth": 0.46875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.442,
+                "x": 35.539394,
+                "y": 31.030823
+            },
+            {
+                "linewidth": 0.50446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.444,
+                "x": 35.539394,
+                "y": 31.115492
+            },
+            {
+                "linewidth": 0.5535714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.458,
+                "x": 35.58173,
+                "y": 31.327162
+            },
+            {
+                "linewidth": 0.6160714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.459,
+                "x": 35.666397,
+                "y": 31.517664
+            },
+            {
+                "linewidth": 0.63839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.475,
+                "x": 35.7934,
+                "y": 31.771667
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.476,
+                "x": 35.899235,
+                "y": 32.025673
+            },
+            {
+                "linewidth": 0.6875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.487,
+                "x": 35.962734,
+                "y": 32.364346
+            },
+            {
+                "linewidth": 0.68303573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.502,
+                "x": 36.026234,
+                "y": 32.618347
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.503,
+                "x": 36.089737,
+                "y": 32.89352
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.517,
+                "x": 36.13207,
+                "y": 33.16869
+            },
+            {
+                "linewidth": 0.64285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.533,
+                "x": 36.237904,
+                "y": 33.59203
+            },
+            {
+                "linewidth": 0.54464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.534,
+                "x": 36.301407,
+                "y": 33.7402
+            },
+            {
+                "linewidth": 0.38839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.548,
+                "x": 36.34374,
+                "y": 33.761368
+            },
+            {
+                "linewidth": 0.17410715,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.549,
+                "x": 36.34374,
+                "y": 33.761368
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975627.563,
+                "x": 36.322575,
+                "y": 33.7402
+            }
+        ],
+        [
+            {
+                "linewidth": 0.48214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975627.714,
+                "x": 36.026234,
+                "y": 30.543982
+            },
+            {
+                "linewidth": 0.59821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.728,
+                "x": 36.0474,
+                "y": 30.56515
+            },
+            {
+                "linewidth": 0.6160714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.743,
+                "x": 36.13207,
+                "y": 30.543982
+            },
+            {
+                "linewidth": 0.625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.745,
+                "x": 36.25907,
+                "y": 30.501648
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.76,
+                "x": 36.364906,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.7098214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.762,
+                "x": 36.597744,
+                "y": 30.41698
+            },
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.776,
+                "x": 36.89408,
+                "y": 30.311146
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.778,
+                "x": 37.33859,
+                "y": 30.162975
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.79,
+                "x": 37.804264,
+                "y": 30.014807
+            },
+            {
+                "linewidth": 0.8035714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.792,
+                "x": 38.206436,
+                "y": 29.972473
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.802,
+                "x": 38.629776,
+                "y": 29.93014
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.817,
+                "x": 39.010784,
+                "y": 29.93014
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.819,
+                "x": 39.37062,
+                "y": 29.972473
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.834,
+                "x": 40.069134,
+                "y": 30.120642
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.846,
+                "x": 40.746475,
+                "y": 30.289978
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.862,
+                "x": 40.958145,
+                "y": 30.332312
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.863,
+                "x": 41.106316,
+                "y": 30.395813
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.879,
+                "x": 41.27565,
+                "y": 30.48048
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.88,
+                "x": 41.42382,
+                "y": 30.56515
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.891,
+                "x": 41.529655,
+                "y": 30.649817
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.908,
+                "x": 41.550823,
+                "y": 30.692152
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.91,
+                "x": 41.593155,
+                "y": 30.734486
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.927,
+                "x": 41.63549,
+                "y": 30.819153
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.93,
+                "x": 41.65666,
+                "y": 30.882654
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.942,
+                "x": 41.677826,
+                "y": 30.924988
+            },
+            {
+                "linewidth": 0.88839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.945,
+                "x": 41.677826,
+                "y": 30.946156
+            },
+            {
+                "linewidth": 0.91071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.955,
+                "x": 41.65666,
+                "y": 30.98849
+            },
+            {
+                "linewidth": 0.9285714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.957,
+                "x": 41.63549,
+                "y": 31.157825
+            },
+            {
+                "linewidth": 0.95089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.969,
+                "x": 41.57199,
+                "y": 31.47533
+            },
+            {
+                "linewidth": 0.97321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.984,
+                "x": 41.44499,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.96428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.987,
+                "x": 41.317986,
+                "y": 32.237343
+            },
+            {
+                "linewidth": 0.95535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.998,
+                "x": 41.190983,
+                "y": 32.449013
+            },
+            {
+                "linewidth": 0.94196427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975627.999,
+                "x": 41.06398,
+                "y": 32.74535
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.014,
+                "x": 40.873478,
+                "y": 33.062855
+            },
+            {
+                "linewidth": 0.76339287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.015,
+                "x": 40.682976,
+                "y": 33.35919
+            },
+            {
+                "linewidth": 0.64285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.027,
+                "x": 40.450138,
+                "y": 33.59203
+            },
+            {
+                "linewidth": 0.4642857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.028,
+                "x": 40.280804,
+                "y": 33.761368
+            },
+            {
+                "linewidth": 0.19196428,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.043,
+                "x": 40.090298,
+                "y": 33.888367
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.058,
+                "x": 39.878628,
+                "y": 33.909534
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975628.06,
+                "x": 39.645794,
+                "y": 33.8037
+            }
+        ],
+        [
+            {
+                "linewidth": 0.5089286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975628.226,
+                "x": 36.83058,
+                "y": 32.576015
+            },
+            {
+                "linewidth": 0.58035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.241,
+                "x": 36.809414,
+                "y": 32.59718
+            },
+            {
+                "linewidth": 0.65625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.244,
+                "x": 36.85175,
+                "y": 32.576015
+            },
+            {
+                "linewidth": 0.71428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.248,
+                "x": 36.999916,
+                "y": 32.576015
+            },
+            {
+                "linewidth": 0.80803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.256,
+                "x": 37.25392,
+                "y": 32.491344
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.258,
+                "x": 37.69843,
+                "y": 32.491344
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.272,
+                "x": 38.142937,
+                "y": 32.427845
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.274,
+                "x": 38.52394,
+                "y": 32.279675
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.282,
+                "x": 39.031948,
+                "y": 32.04684
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.297,
+                "x": 39.412956,
+                "y": 31.941004
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.298,
+                "x": 39.688126,
+                "y": 31.919838
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.315,
+                "x": 39.857464,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.316,
+                "x": 40.0268,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.68303573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.327,
+                "x": 40.17497,
+                "y": 31.877502
+            },
+            {
+                "linewidth": 0.54910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.328,
+                "x": 40.323135,
+                "y": 31.877502
+            },
+            {
+                "linewidth": 0.41517857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.342,
+                "x": 40.344303,
+                "y": 31.877502
+            },
+            {
+                "linewidth": 0.18303572,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.343,
+                "x": 40.323135,
+                "y": 31.877502
+            },
+            {
+                "linewidth": 0.04464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.358,
+                "x": 40.259636,
+                "y": 31.941004
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975628.373,
+                "x": 40.047966,
+                "y": 32.04684
+            }
+        ],
+        [
+            {
+                "linewidth": 0.70089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975628.478,
+                "x": 36.91525,
+                "y": 33.909534
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.479,
+                "x": 36.978752,
+                "y": 33.909534
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.493,
+                "x": 37.10575,
+                "y": 33.888367
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.494,
+                "x": 37.33859,
+                "y": 33.846035
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.509,
+                "x": 37.634926,
+                "y": 33.846035
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.511,
+                "x": 38.0371,
+                "y": 33.78253
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.525,
+                "x": 38.39694,
+                "y": 33.7402
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.537,
+                "x": 38.73561,
+                "y": 33.613197
+            },
+            {
+                "linewidth": 0.80803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.539,
+                "x": 39.18012,
+                "y": 33.52853
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.553,
+                "x": 39.51879,
+                "y": 33.486195
+            },
+            {
+                "linewidth": 0.64285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.554,
+                "x": 39.81513,
+                "y": 33.422695
+            },
+            {
+                "linewidth": 0.5401786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.567,
+                "x": 40.047966,
+                "y": 33.38036
+            },
+            {
+                "linewidth": 0.36160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.567,
+                "x": 40.23847,
+                "y": 33.38036
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.585,
+                "x": 40.407803,
+                "y": 33.338028
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975628.587,
+                "x": 40.450138,
+                "y": 33.295692
+            }
+        ],
+        [
+            {
+                "linewidth": 0.51339287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975628.754,
+                "x": 37.9736,
+                "y": 30.26881
+            },
+            {
+                "linewidth": 0.69196427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.769,
+                "x": 37.867764,
+                "y": 30.332312
+            },
+            {
+                "linewidth": 0.7723214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.772,
+                "x": 37.846596,
+                "y": 30.35348
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.781,
+                "x": 37.82543,
+                "y": 30.395813
+            },
+            {
+                "linewidth": 0.83928573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.786,
+                "x": 37.82543,
+                "y": 30.438147
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.794,
+                "x": 37.867764,
+                "y": 30.670984
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.795,
+                "x": 37.9101,
+                "y": 30.882654
+            },
+            {
+                "linewidth": 0.90625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.809,
+                "x": 37.95243,
+                "y": 31.305994
+            },
+            {
+                "linewidth": 0.92410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.812,
+                "x": 38.015934,
+                "y": 31.89867
+            },
+            {
+                "linewidth": 0.9464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.824,
+                "x": 38.058266,
+                "y": 32.53368
+            },
+            {
+                "linewidth": 0.94196427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.826,
+                "x": 38.12177,
+                "y": 33.062855
+            },
+            {
+                "linewidth": 0.93303573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.838,
+                "x": 38.227604,
+                "y": 33.676697
+            },
+            {
+                "linewidth": 0.9151786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.852,
+                "x": 38.227604,
+                "y": 34.290543
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.853,
+                "x": 38.227604,
+                "y": 34.967884
+            },
+            {
+                "linewidth": 0.75,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.867,
+                "x": 38.206436,
+                "y": 35.58173
+            },
+            {
+                "linewidth": 0.59821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.869,
+                "x": 38.18527,
+                "y": 36.19557
+            },
+            {
+                "linewidth": 0.3794643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.882,
+                "x": 38.1641,
+                "y": 36.745914
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975628.883,
+                "x": 38.206436,
+                "y": 37.211586
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975628.899,
+                "x": 38.206436,
+                "y": 37.507927
+            }
+        ],
+        [
+            {
+                "linewidth": 0.51785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975634.478,
+                "x": 20.341488,
+                "y": 164.25592
+            },
+            {
+                "linewidth": 0.57589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.479,
+                "x": 20.341488,
+                "y": 164.2771
+            },
+            {
+                "linewidth": 0.61160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.493,
+                "x": 20.341488,
+                "y": 164.34059
+            },
+            {
+                "linewidth": 0.63839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.495,
+                "x": 20.362656,
+                "y": 164.38293
+            },
+            {
+                "linewidth": 0.66071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.509,
+                "x": 20.383821,
+                "y": 164.44643
+            },
+            {
+                "linewidth": 0.6875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.523,
+                "x": 20.426155,
+                "y": 164.5311
+            },
+            {
+                "linewidth": 0.7098214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.525,
+                "x": 20.46849,
+                "y": 164.74277
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.539,
+                "x": 20.489656,
+                "y": 165.08144
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.54,
+                "x": 20.510824,
+                "y": 165.48361
+            },
+            {
+                "linewidth": 0.71428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.556,
+                "x": 20.574326,
+                "y": 165.80112
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.558,
+                "x": 20.637825,
+                "y": 166.05511
+            },
+            {
+                "linewidth": 0.65178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.571,
+                "x": 20.68016,
+                "y": 166.22446
+            },
+            {
+                "linewidth": 0.50446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.573,
+                "x": 20.722494,
+                "y": 166.43613
+            },
+            {
+                "linewidth": 0.3794643,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.582,
+                "x": 20.785995,
+                "y": 166.62663
+            },
+            {
+                "linewidth": 0.08035714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.598,
+                "x": 20.807161,
+                "y": 166.75363
+            },
+            {
+                "linewidth": 0.04910714,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975634.6,
+                "x": 20.807161,
+                "y": 166.75363
+            }
+        ],
+        [
+            {
+                "linewidth": 0.58035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975634.717,
+                "x": 20.764828,
+                "y": 163.53625
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.732,
+                "x": 20.807161,
+                "y": 163.53625
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.733,
+                "x": 20.870663,
+                "y": 163.55742
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.748,
+                "x": 20.976498,
+                "y": 163.53625
+            },
+            {
+                "linewidth": 0.76785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.765,
+                "x": 21.145834,
+                "y": 163.49391
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.767,
+                "x": 21.442171,
+                "y": 163.38808
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.778,
+                "x": 21.86551,
+                "y": 163.21875
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.779,
+                "x": 22.310019,
+                "y": 163.04941
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.792,
+                "x": 22.733358,
+                "y": 162.92241
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.793,
+                "x": 23.2202,
+                "y": 162.88007
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.807,
+                "x": 23.64354,
+                "y": 162.88007
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.808,
+                "x": 24.088047,
+                "y": 162.8589
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.821,
+                "x": 24.42672,
+                "y": 162.90125
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.836,
+                "x": 24.680723,
+                "y": 163.02824
+            },
+            {
+                "linewidth": 0.80803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.837,
+                "x": 24.934727,
+                "y": 163.15524
+            },
+            {
+                "linewidth": 0.80803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.852,
+                "x": 25.12523,
+                "y": 163.3034
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.853,
+                "x": 25.231066,
+                "y": 163.38808
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.867,
+                "x": 25.294565,
+                "y": 163.47275
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.868,
+                "x": 25.358067,
+                "y": 163.64209
+            },
+            {
+                "linewidth": 0.8973214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.882,
+                "x": 25.4004,
+                "y": 163.85376
+            },
+            {
+                "linewidth": 0.89285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.883,
+                "x": 25.4004,
+                "y": 164.25592
+            },
+            {
+                "linewidth": 0.89285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.897,
+                "x": 25.294565,
+                "y": 164.46759
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.913,
+                "x": 25.167564,
+                "y": 164.70044
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.914,
+                "x": 25.040562,
+                "y": 164.99677
+            },
+            {
+                "linewidth": 0.7723214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.928,
+                "x": 24.85006,
+                "y": 165.27194
+            },
+            {
+                "linewidth": 0.58928573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.929,
+                "x": 24.63839,
+                "y": 165.56828
+            },
+            {
+                "linewidth": 0.39732143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.943,
+                "x": 24.34205,
+                "y": 165.80112
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975634.946,
+                "x": 24.088047,
+                "y": 166.05511
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975634.96,
+                "x": 23.791708,
+                "y": 166.18213
+            }
+        ],
+        [
+            {
+                "linewidth": 0.65625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975635.094,
+                "x": 20.997665,
+                "y": 165.08144
+            },
+            {
+                "linewidth": 0.75,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.095,
+                "x": 21.061165,
+                "y": 165.08144
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.109,
+                "x": 21.209335,
+                "y": 165.06027
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.11,
+                "x": 21.463339,
+                "y": 165.03911
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.123,
+                "x": 22.013681,
+                "y": 164.91211
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.124,
+                "x": 22.500523,
+                "y": 164.76393
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.138,
+                "x": 23.050863,
+                "y": 164.55226
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.154,
+                "x": 23.516539,
+                "y": 164.4041
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.154,
+                "x": 23.939878,
+                "y": 164.2771
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.167,
+                "x": 24.21505,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.168,
+                "x": 24.405552,
+                "y": 164.19243
+            },
+            {
+                "linewidth": 0.6160714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.185,
+                "x": 24.55372,
+                "y": 164.19243
+            },
+            {
+                "linewidth": 0.5401786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.187,
+                "x": 24.596054,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.4330357,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.199,
+                "x": 24.596054,
+                "y": 164.23476
+            },
+            {
+                "linewidth": 0.2767857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.202,
+                "x": 24.532555,
+                "y": 164.29826
+            },
+            {
+                "linewidth": 0.05357143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.214,
+                "x": 24.384384,
+                "y": 164.42526
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975635.229,
+                "x": 24.13038,
+                "y": 164.57343
+            }
+        ],
+        [
+            {
+                "linewidth": 0.59375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975635.321,
+                "x": 21.294003,
+                "y": 166.7748
+            },
+            {
+                "linewidth": 0.74553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.323,
+                "x": 21.399837,
+                "y": 166.73247
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.335,
+                "x": 21.590342,
+                "y": 166.69012
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.336,
+                "x": 21.780844,
+                "y": 166.69012
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.349,
+                "x": 22.140682,
+                "y": 166.60547
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.35,
+                "x": 22.542856,
+                "y": 166.5208
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.369,
+                "x": 22.945028,
+                "y": 166.3938
+            },
+            {
+                "linewidth": 0.78125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.371,
+                "x": 23.347202,
+                "y": 166.24562
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.381,
+                "x": 23.685873,
+                "y": 166.11862
+            },
+            {
+                "linewidth": 0.59821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.393,
+                "x": 23.982212,
+                "y": 166.05511
+            },
+            {
+                "linewidth": 0.4375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.394,
+                "x": 24.236216,
+                "y": 166.01279
+            },
+            {
+                "linewidth": 0.21428572,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.41,
+                "x": 24.363218,
+                "y": 165.92812
+            },
+            {
+                "linewidth": 0.026785715,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.411,
+                "x": 24.49022,
+                "y": 165.84344
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975635.425,
+                "x": 24.532555,
+                "y": 165.75879
+            }
+        ],
+        [
+            {
+                "linewidth": 0.48214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975635.651,
+                "x": 22.479355,
+                "y": 163.32458
+            },
+            {
+                "linewidth": 0.61160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.656,
+                "x": 22.458187,
+                "y": 163.36691
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.658,
+                "x": 22.458187,
+                "y": 163.45158
+            },
+            {
+                "linewidth": 0.71428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.665,
+                "x": 22.458187,
+                "y": 163.64209
+            },
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.665,
+                "x": 22.415854,
+                "y": 163.98076
+            },
+            {
+                "linewidth": 0.77678573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.679,
+                "x": 22.394688,
+                "y": 164.31943
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.681,
+                "x": 22.415854,
+                "y": 164.70044
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.695,
+                "x": 22.415854,
+                "y": 165.06027
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.71,
+                "x": 22.352352,
+                "y": 165.56828
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.712,
+                "x": 22.331186,
+                "y": 166.11862
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.723,
+                "x": 22.288853,
+                "y": 166.62663
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.724,
+                "x": 22.267685,
+                "y": 167.0923
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.737,
+                "x": 22.288853,
+                "y": 167.5368
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.738,
+                "x": 22.331186,
+                "y": 167.89665
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.753,
+                "x": 22.394688,
+                "y": 168.29883
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.754,
+                "x": 22.521688,
+                "y": 168.72217
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.766,
+                "x": 22.627523,
+                "y": 169.0185
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.782,
+                "x": 22.818027,
+                "y": 169.23016
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.783,
+                "x": 23.050863,
+                "y": 169.46301
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.796,
+                "x": 23.2837,
+                "y": 169.69585
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.797,
+                "x": 23.601206,
+                "y": 169.84401
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.811,
+                "x": 23.939878,
+                "y": 169.97102
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.812,
+                "x": 24.257383,
+                "y": 169.99219
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.828,
+                "x": 24.55372,
+                "y": 170.05568
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.829,
+                "x": 24.871225,
+                "y": 170.03452
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.842,
+                "x": 25.146397,
+                "y": 169.99219
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.857,
+                "x": 25.590904,
+                "y": 169.90752
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.873,
+                "x": 25.717905,
+                "y": 169.82285
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.875,
+                "x": 25.82374,
+                "y": 169.75935
+            },
+            {
+                "linewidth": 0.88839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.889,
+                "x": 25.90841,
+                "y": 169.63234
+            },
+            {
+                "linewidth": 0.88839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.891,
+                "x": 26.014244,
+                "y": 169.3995
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.904,
+                "x": 26.120079,
+                "y": 169.14551
+            },
+            {
+                "linewidth": 0.72321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.907,
+                "x": 26.120079,
+                "y": 168.99733
+            },
+            {
+                "linewidth": 0.375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.921,
+                "x": 26.098911,
+                "y": 168.48932
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975635.922,
+                "x": 25.993076,
+                "y": 167.64264
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975635.934,
+                "x": 25.866076,
+                "y": 166.81714
+            }
+        ],
+        [
+            {
+                "linewidth": 0.41964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975638.054,
+                "x": 36.513077,
+                "y": 164.89093
+            },
+            {
+                "linewidth": 0.50446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.065,
+                "x": 36.513077,
+                "y": 164.89093
+            },
+            {
+                "linewidth": 0.54910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.078,
+                "x": 36.513077,
+                "y": 164.89093
+            },
+            {
+                "linewidth": 0.57589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.079,
+                "x": 36.534245,
+                "y": 164.91211
+            },
+            {
+                "linewidth": 0.61160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.092,
+                "x": 36.55541,
+                "y": 164.95444
+            },
+            {
+                "linewidth": 0.6339286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.093,
+                "x": 36.64008,
+                "y": 165.01794
+            },
+            {
+                "linewidth": 0.65178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.106,
+                "x": 36.724747,
+                "y": 165.18727
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.107,
+                "x": 36.788246,
+                "y": 165.39894
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.137,
+                "x": 36.872917,
+                "y": 165.65295
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.138,
+                "x": 36.957584,
+                "y": 166.01279
+            },
+            {
+                "linewidth": 0.7276786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.139,
+                "x": 37.04225,
+                "y": 166.35146
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.14,
+                "x": 37.12692,
+                "y": 166.7113
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.151,
+                "x": 37.211586,
+                "y": 167.00763
+            },
+            {
+                "linewidth": 0.6964286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.168,
+                "x": 37.232754,
+                "y": 167.2828
+            },
+            {
+                "linewidth": 0.59375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.169,
+                "x": 37.25392,
+                "y": 167.43097
+            },
+            {
+                "linewidth": 0.4375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.186,
+                "x": 37.296257,
+                "y": 167.5368
+            },
+            {
+                "linewidth": 0.20982143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.188,
+                "x": 37.31742,
+                "y": 167.66382
+            },
+            {
+                "linewidth": 0.04910714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.199,
+                "x": 37.33859,
+                "y": 167.68498
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975638.2,
+                "x": 37.31742,
+                "y": 167.60031
+            }
+        ],
+        [
+            {
+                "linewidth": 0.54464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975638.319,
+                "x": 36.999916,
+                "y": 164.67926
+            },
+            {
+                "linewidth": 0.66071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.32,
+                "x": 36.999916,
+                "y": 164.67926
+            },
+            {
+                "linewidth": 0.72321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.335,
+                "x": 37.06342,
+                "y": 164.6581
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.337,
+                "x": 37.232754,
+                "y": 164.63693
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.349,
+                "x": 37.46559,
+                "y": 164.57343
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.35,
+                "x": 37.82543,
+                "y": 164.46759
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.366,
+                "x": 38.291103,
+                "y": 164.36176
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.368,
+                "x": 38.714443,
+                "y": 164.29826
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.38,
+                "x": 39.137783,
+                "y": 164.19243
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.395,
+                "x": 39.60346,
+                "y": 164.10776
+            },
+            {
+                "linewidth": 0.8660714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.396,
+                "x": 40.132633,
+                "y": 164.0866
+            },
+            {
+                "linewidth": 0.8839286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.408,
+                "x": 40.492474,
+                "y": 164.10776
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.409,
+                "x": 40.873478,
+                "y": 164.17126
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.423,
+                "x": 41.169815,
+                "y": 164.25592
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.424,
+                "x": 41.44499,
+                "y": 164.36176
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.437,
+                "x": 41.614323,
+                "y": 164.46759
+            },
+            {
+                "linewidth": 0.8973214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.439,
+                "x": 41.762493,
+                "y": 164.5946
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.451,
+                "x": 41.889496,
+                "y": 164.67926
+            },
+            {
+                "linewidth": 0.9151786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.452,
+                "x": 41.931828,
+                "y": 164.74277
+            },
+            {
+                "linewidth": 0.9285714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.467,
+                "x": 41.952995,
+                "y": 164.74277
+            },
+            {
+                "linewidth": 0.95089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.484,
+                "x": 41.952995,
+                "y": 164.80627
+            },
+            {
+                "linewidth": 0.9598214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.486,
+                "x": 41.91066,
+                "y": 164.89093
+            },
+            {
+                "linewidth": 0.96428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.5,
+                "x": 41.84716,
+                "y": 165.14494
+            },
+            {
+                "linewidth": 0.95089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.502,
+                "x": 41.69899,
+                "y": 165.39894
+            },
+            {
+                "linewidth": 0.91964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.514,
+                "x": 41.466156,
+                "y": 165.65295
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.517,
+                "x": 41.21215,
+                "y": 165.92812
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.53,
+                "x": 40.873478,
+                "y": 166.30913
+            },
+            {
+                "linewidth": 0.58035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.532,
+                "x": 40.513638,
+                "y": 166.66896
+            },
+            {
+                "linewidth": 0.36160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.546,
+                "x": 40.17497,
+                "y": 166.9653
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.559,
+                "x": 39.857464,
+                "y": 167.1558
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975638.561,
+                "x": 39.561123,
+                "y": 167.24048
+            }
+        ],
+        [
+            {
+                "linewidth": 0.5089286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975638.693,
+                "x": 37.380924,
+                "y": 166.09746
+            },
+            {
+                "linewidth": 0.6473214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.707,
+                "x": 37.444424,
+                "y": 166.0763
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.708,
+                "x": 37.634926,
+                "y": 166.03395
+            },
+            {
+                "linewidth": 0.8125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.724,
+                "x": 37.88893,
+                "y": 165.99162
+            },
+            {
+                "linewidth": 0.83035713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.725,
+                "x": 38.24877,
+                "y": 165.97046
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.739,
+                "x": 38.67211,
+                "y": 165.88579
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.74,
+                "x": 39.11662,
+                "y": 165.73761
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.756,
+                "x": 39.53996,
+                "y": 165.58945
+            },
+            {
+                "linewidth": 0.83928573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.759,
+                "x": 39.94213,
+                "y": 165.50478
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.772,
+                "x": 40.280804,
+                "y": 165.44128
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.774,
+                "x": 40.513638,
+                "y": 165.48361
+            },
+            {
+                "linewidth": 0.76339287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.783,
+                "x": 40.704144,
+                "y": 165.48361
+            },
+            {
+                "linewidth": 0.6875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.796,
+                "x": 40.78881,
+                "y": 165.48361
+            },
+            {
+                "linewidth": 0.5714286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.797,
+                "x": 40.85231,
+                "y": 165.48361
+            },
+            {
+                "linewidth": 0.4107143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.813,
+                "x": 40.873478,
+                "y": 165.50478
+            },
+            {
+                "linewidth": 0.19196428,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.815,
+                "x": 40.80998,
+                "y": 165.56828
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.829,
+                "x": 40.661808,
+                "y": 165.69528
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975638.83,
+                "x": 40.38664,
+                "y": 165.86462
+            }
+        ],
+        [
+            {
+                "linewidth": 0.51785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975638.919,
+                "x": 37.190422,
+                "y": 167.89665
+            },
+            {
+                "linewidth": 0.61160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.933,
+                "x": 37.232754,
+                "y": 167.87549
+            },
+            {
+                "linewidth": 0.72321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.949,
+                "x": 37.31742,
+                "y": 167.83315
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.951,
+                "x": 37.55026,
+                "y": 167.72731
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.966,
+                "x": 37.931267,
+                "y": 167.57915
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.968,
+                "x": 38.269936,
+                "y": 167.5368
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.98,
+                "x": 38.650944,
+                "y": 167.45215
+            },
+            {
+                "linewidth": 0.8214286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.981,
+                "x": 39.15895,
+                "y": 167.2828
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.994,
+                "x": 39.624626,
+                "y": 167.13464
+            },
+            {
+                "linewidth": 0.76785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975638.995,
+                "x": 40.047966,
+                "y": 167.04997
+            },
+            {
+                "linewidth": 0.70089287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.008,
+                "x": 40.450138,
+                "y": 166.92297
+            },
+            {
+                "linewidth": 0.625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.01,
+                "x": 40.746475,
+                "y": 166.85947
+            },
+            {
+                "linewidth": 0.48660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.024,
+                "x": 41.042816,
+                "y": 166.79596
+            },
+            {
+                "linewidth": 0.33482143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.038,
+                "x": 41.254486,
+                "y": 166.79596
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.039,
+                "x": 41.381485,
+                "y": 166.73247
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975639.055,
+                "x": 41.466156,
+                "y": 166.62663
+            }
+        ],
+        [
+            {
+                "linewidth": 0.39285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975639.233,
+                "x": 38.629776,
+                "y": 160.78453
+            },
+            {
+                "linewidth": 0.50446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.25,
+                "x": 38.629776,
+                "y": 160.80571
+            },
+            {
+                "linewidth": 0.59821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.252,
+                "x": 38.650944,
+                "y": 160.80571
+            },
+            {
+                "linewidth": 0.65625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.264,
+                "x": 38.650944,
+                "y": 160.80571
+            },
+            {
+                "linewidth": 0.7098214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.28,
+                "x": 38.650944,
+                "y": 160.82687
+            },
+            {
+                "linewidth": 0.75,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.282,
+                "x": 38.67211,
+                "y": 160.84804
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.295,
+                "x": 38.69328,
+                "y": 160.93271
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.297,
+                "x": 38.714443,
+                "y": 161.08087
+            },
+            {
+                "linewidth": 0.86160713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.31,
+                "x": 38.73561,
+                "y": 161.29254
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.313,
+                "x": 38.75678,
+                "y": 161.56772
+            },
+            {
+                "linewidth": 0.93303573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.325,
+                "x": 38.75678,
+                "y": 162.07573
+            },
+            {
+                "linewidth": 0.97321427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.326,
+                "x": 38.799114,
+                "y": 162.7319
+            },
+            {
+                "linewidth": 0.98214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.338,
+                "x": 38.82028,
+                "y": 163.49391
+            },
+            {
+                "linewidth": 0.99553573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.353,
+                "x": 38.82028,
+                "y": 164.42526
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.353,
+                "x": 38.82028,
+                "y": 165.35661
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.367,
+                "x": 38.82028,
+                "y": 166.33029
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.368,
+                "x": 38.82028,
+                "y": 167.2828
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.381,
+                "x": 38.777946,
+                "y": 168.193
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.382,
+                "x": 38.75678,
+                "y": 169.082
+            },
+            {
+                "linewidth": 0.96875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.397,
+                "x": 38.73561,
+                "y": 169.88635
+            },
+            {
+                "linewidth": 0.95535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.397,
+                "x": 38.73561,
+                "y": 170.60603
+            },
+            {
+                "linewidth": 0.91964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.411,
+                "x": 38.75678,
+                "y": 171.15637
+            },
+            {
+                "linewidth": 0.84375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.427,
+                "x": 38.777946,
+                "y": 171.49504
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.428,
+                "x": 38.82028,
+                "y": 171.85487
+            },
+            {
+                "linewidth": 0.48214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.444,
+                "x": 38.862614,
+                "y": 172.08772
+            },
+            {
+                "linewidth": 0.16517857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975639.446,
+                "x": 38.88378,
+                "y": 172.15121
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975639.459,
+                "x": 38.862614,
+                "y": 172.17238
+            }
+        ],
+        [
+            {
+                "linewidth": 0.34375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975641.653,
+                "x": 50.7373,
+                "y": 164.5946
+            },
+            {
+                "linewidth": 0.38839287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.666,
+                "x": 50.7373,
+                "y": 164.61577
+            },
+            {
+                "linewidth": 0.40625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.668,
+                "x": 50.7373,
+                "y": 164.61577
+            },
+            {
+                "linewidth": 0.42410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.679,
+                "x": 50.7373,
+                "y": 164.61577
+            },
+            {
+                "linewidth": 0.45535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.68,
+                "x": 50.716133,
+                "y": 164.61577
+            },
+            {
+                "linewidth": 0.49107143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.696,
+                "x": 50.7373,
+                "y": 164.63693
+            },
+            {
+                "linewidth": 0.53571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.698,
+                "x": 50.7373,
+                "y": 164.6581
+            },
+            {
+                "linewidth": 0.5714286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.71,
+                "x": 50.75847,
+                "y": 164.6581
+            },
+            {
+                "linewidth": 0.60714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.725,
+                "x": 50.779636,
+                "y": 164.70044
+            },
+            {
+                "linewidth": 0.64285713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.726,
+                "x": 50.8008,
+                "y": 164.74277
+            },
+            {
+                "linewidth": 0.6785714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.739,
+                "x": 50.8008,
+                "y": 164.7851
+            },
+            {
+                "linewidth": 0.7098214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.74,
+                "x": 50.821968,
+                "y": 164.91211
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.755,
+                "x": 50.864304,
+                "y": 165.08144
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.756,
+                "x": 50.88547,
+                "y": 165.25078
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.77,
+                "x": 50.927803,
+                "y": 165.46245
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.771,
+                "x": 50.927803,
+                "y": 165.63177
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.784,
+                "x": 50.97014,
+                "y": 165.86462
+            },
+            {
+                "linewidth": 0.7276786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.786,
+                "x": 50.991306,
+                "y": 166.03395
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.797,
+                "x": 50.991306,
+                "y": 166.16095
+            },
+            {
+                "linewidth": 0.57589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.811,
+                "x": 50.991306,
+                "y": 166.3938
+            },
+            {
+                "linewidth": 0.4330357,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.812,
+                "x": 50.991306,
+                "y": 166.62663
+            },
+            {
+                "linewidth": 0.20982143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.827,
+                "x": 51.033638,
+                "y": 166.75363
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.827,
+                "x": 51.054806,
+                "y": 166.81714
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975641.841,
+                "x": 51.033638,
+                "y": 166.79596
+            }
+        ],
+        [
+            {
+                "linewidth": 0.54464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975641.963,
+                "x": 51.30881,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.62946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.963,
+                "x": 51.30881,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.977,
+                "x": 51.351143,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.75,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.978,
+                "x": 51.39348,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.996,
+                "x": 51.478146,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975641.997,
+                "x": 51.689816,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.01,
+                "x": 52.02849,
+                "y": 164.15009
+            },
+            {
+                "linewidth": 0.85714287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.011,
+                "x": 52.43066,
+                "y": 164.10776
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.024,
+                "x": 52.854,
+                "y": 164.04425
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.025,
+                "x": 53.362007,
+                "y": 163.98076
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.037,
+                "x": 53.84885,
+                "y": 164.00192
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.051,
+                "x": 54.33569,
+                "y": 164.0866
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.052,
+                "x": 54.716698,
+                "y": 164.15009
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.067,
+                "x": 55.097702,
+                "y": 164.2136
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.067,
+                "x": 55.436375,
+                "y": 164.34059
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.082,
+                "x": 55.669212,
+                "y": 164.4041
+            },
+            {
+                "linewidth": 0.875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.082,
+                "x": 55.838547,
+                "y": 164.5311
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.1,
+                "x": 55.880882,
+                "y": 164.57343
+            },
+            {
+                "linewidth": 0.87946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.102,
+                "x": 55.90205,
+                "y": 164.5946
+            },
+            {
+                "linewidth": 0.91071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.13,
+                "x": 55.923218,
+                "y": 164.67926
+            },
+            {
+                "linewidth": 0.9375,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.132,
+                "x": 55.923218,
+                "y": 164.8486
+            },
+            {
+                "linewidth": 0.96875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.133,
+                "x": 55.859715,
+                "y": 165.12378
+            },
+            {
+                "linewidth": 0.9598214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.144,
+                "x": 55.838547,
+                "y": 165.20844
+            },
+            {
+                "linewidth": 0.9598214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.146,
+                "x": 55.711548,
+                "y": 165.50478
+            },
+            {
+                "linewidth": 0.90625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.159,
+                "x": 55.563377,
+                "y": 165.84344
+            },
+            {
+                "linewidth": 0.82589287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.161,
+                "x": 55.372875,
+                "y": 166.2033
+            },
+            {
+                "linewidth": 0.71428573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.175,
+                "x": 55.140038,
+                "y": 166.5208
+            },
+            {
+                "linewidth": 0.48660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.177,
+                "x": 54.9072,
+                "y": 166.75363
+            },
+            {
+                "linewidth": 0.20982143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.191,
+                "x": 54.589695,
+                "y": 167.00763
+            },
+            {
+                "linewidth": 0.05357143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.204,
+                "x": 54.229855,
+                "y": 167.24048
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975642.205,
+                "x": 53.806515,
+                "y": 167.34631
+            }
+        ],
+        [
+            {
+                "linewidth": 0.56696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975642.325,
+                "x": 51.859154,
+                "y": 166.03395
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.34,
+                "x": 51.880318,
+                "y": 166.03395
+            },
+            {
+                "linewidth": 0.73660713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.341,
+                "x": 51.96499,
+                "y": 166.05511
+            },
+            {
+                "linewidth": 0.76785713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.354,
+                "x": 52.240158,
+                "y": 166.03395
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.369,
+                "x": 52.663498,
+                "y": 165.88579
+            },
+            {
+                "linewidth": 0.79910713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.369,
+                "x": 53.192673,
+                "y": 165.69528
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.383,
+                "x": 53.721848,
+                "y": 165.46245
+            },
+            {
+                "linewidth": 0.7901786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.383,
+                "x": 54.20869,
+                "y": 165.37778
+            },
+            {
+                "linewidth": 0.7723214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.396,
+                "x": 54.610863,
+                "y": 165.22961
+            },
+            {
+                "linewidth": 0.71875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.396,
+                "x": 54.9072,
+                "y": 165.18727
+            },
+            {
+                "linewidth": 0.625,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.412,
+                "x": 55.076534,
+                "y": 165.1661
+            },
+            {
+                "linewidth": 0.54464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.412,
+                "x": 55.11887,
+                "y": 165.1661
+            },
+            {
+                "linewidth": 0.44642857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.426,
+                "x": 55.140038,
+                "y": 165.20844
+            },
+            {
+                "linewidth": 0.2767857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.443,
+                "x": 55.11887,
+                "y": 165.25078
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.445,
+                "x": 55.034203,
+                "y": 165.37778
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975642.458,
+                "x": 54.822533,
+                "y": 165.61061
+            }
+        ],
+        [
+            {
+                "linewidth": 0.6651786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975642.551,
+                "x": 51.689816,
+                "y": 167.72731
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.552,
+                "x": 51.689816,
+                "y": 167.74847
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.564,
+                "x": 51.73215,
+                "y": 167.74847
+            },
+            {
+                "linewidth": 0.83928573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.566,
+                "x": 51.859154,
+                "y": 167.74847
+            },
+            {
+                "linewidth": 0.8973214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.58,
+                "x": 52.00732,
+                "y": 167.72731
+            },
+            {
+                "linewidth": 0.92410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.583,
+                "x": 52.36716,
+                "y": 167.68498
+            },
+            {
+                "linewidth": 0.9151786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.593,
+                "x": 52.7905,
+                "y": 167.62148
+            },
+            {
+                "linewidth": 0.9151786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.608,
+                "x": 53.21384,
+                "y": 167.5368
+            },
+            {
+                "linewidth": 0.91071427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.61,
+                "x": 53.743015,
+                "y": 167.45215
+            },
+            {
+                "linewidth": 0.90178573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.624,
+                "x": 54.27219,
+                "y": 167.30397
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.626,
+                "x": 54.75903,
+                "y": 167.26164
+            },
+            {
+                "linewidth": 0.75446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.638,
+                "x": 55.11887,
+                "y": 167.2193
+            },
+            {
+                "linewidth": 0.6651786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.64,
+                "x": 55.372875,
+                "y": 167.1558
+            },
+            {
+                "linewidth": 0.53571427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.654,
+                "x": 55.605713,
+                "y": 167.07114
+            },
+            {
+                "linewidth": 0.39732143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.655,
+                "x": 55.73271,
+                "y": 167.00763
+            },
+            {
+                "linewidth": 0.23660715,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.668,
+                "x": 55.859715,
+                "y": 166.94414
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.684,
+                "x": 55.90205,
+                "y": 166.8383
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975642.686,
+                "x": 55.838547,
+                "y": 166.73247
+            }
+        ],
+        [
+            {
+                "linewidth": 0.4017857,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": true,
+                "time_stamp": 1714975642.881,
+                "x": 52.832832,
+                "y": 162.03339
+            },
+            {
+                "linewidth": 0.46875,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.883,
+                "x": 52.832832,
+                "y": 162.03339
+            },
+            {
+                "linewidth": 0.50446427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.895,
+                "x": 52.832832,
+                "y": 162.03339
+            },
+            {
+                "linewidth": 0.5223214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.896,
+                "x": 52.832832,
+                "y": 162.03339
+            },
+            {
+                "linewidth": 0.53125,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.909,
+                "x": 52.832832,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.5535714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.926,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.5848214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.928,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.62946427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.94,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.66964287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.942,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.70535713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.956,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.73214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.958,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.7589286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.969,
+                "x": 52.854,
+                "y": 162.07573
+            },
+            {
+                "linewidth": 0.77678573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.971,
+                "x": 52.854,
+                "y": 162.05455
+            },
+            {
+                "linewidth": 0.79464287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975642.983,
+                "x": 52.854,
+                "y": 162.07573
+            },
+            {
+                "linewidth": 0.81696427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.001,
+                "x": 52.854,
+                "y": 162.11806
+            },
+            {
+                "linewidth": 0.8348214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.003,
+                "x": 52.875168,
+                "y": 162.18156
+            },
+            {
+                "linewidth": 0.84821427,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.014,
+                "x": 52.896336,
+                "y": 162.24506
+            },
+            {
+                "linewidth": 0.87053573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.016,
+                "x": 52.917503,
+                "y": 162.30856
+            },
+            {
+                "linewidth": 0.92410713,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.03,
+                "x": 52.981003,
+                "y": 162.4779
+            },
+            {
+                "linewidth": 0.9598214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.031,
+                "x": 53.044502,
+                "y": 162.90125
+            },
+            {
+                "linewidth": 0.98214287,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.043,
+                "x": 53.086838,
+                "y": 163.28224
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.044,
+                "x": 53.108006,
+                "y": 163.68442
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.059,
+                "x": 53.108006,
+                "y": 164.23476
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.061,
+                "x": 53.108006,
+                "y": 164.86977
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.073,
+                "x": 53.06567,
+                "y": 165.50478
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.092,
+                "x": 53.06567,
+                "y": 166.13979
+            },
+            {
+                "linewidth": 1.0,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.094,
+                "x": 53.044502,
+                "y": 166.75363
+            },
+            {
+                "linewidth": 0.9598214,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.104,
+                "x": 53.00217,
+                "y": 167.34631
+            },
+            {
+                "linewidth": 0.8526786,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.107,
+                "x": 52.938667,
+                "y": 167.93898
+            },
+            {
+                "linewidth": 0.7410714,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.119,
+                "x": 52.854,
+                "y": 168.46815
+            },
+            {
+                "linewidth": 0.55803573,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.122,
+                "x": 52.7905,
+                "y": 168.955
+            },
+            {
+                "linewidth": 0.24107143,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.134,
+                "x": 52.748165,
+                "y": 169.37834
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": false,
+                "stroke_start": false,
+                "time_stamp": 1714975643.136,
+                "x": 52.726997,
+                "y": 169.73817
+            },
+            {
+                "linewidth": 0.004464286,
+                "page_id": 55175,
+                "stroke_end": true,
+                "stroke_start": false,
+                "time_stamp": 1714975643.149,
+                "x": 52.536495,
+                "y": 169.99219
+            }
+        ]
+    ]
+}
