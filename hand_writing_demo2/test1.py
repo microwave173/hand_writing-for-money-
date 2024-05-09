@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.optim as optim
 import get_dataset
 import torch.nn.functional as F
-import timm
 
 
 class TNet(nn.Module):

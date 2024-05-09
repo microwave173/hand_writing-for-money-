@@ -14,7 +14,7 @@ repeat_num = 1
 
 file_list = [
     # 'test_sets/3.json',
-    'test_sets/6.json'
+    'train_sets/寒/1.json'
 ]
 
 
@@ -104,7 +104,7 @@ def get_set(name):
                     data2.append(item)
             if len(data2) <= 0:
                 continue
-            while len(data2) < 200:
+            while len(data2) < 400:
                 data2.append([0., 0.])
             data2_ts = torch.tensor(data2, dtype=torch.float32).t()
             data3.append(data2_ts.tolist())

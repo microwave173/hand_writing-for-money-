@@ -1,5 +1,4 @@
 import get_dataset
-import pointnet2_cls_msg
 import torch.nn as nn
 import torch.optim as optim
 
@@ -105,11 +104,11 @@ class PointNet(nn.Module):
 
 train_loader = get_dataset.train_loader
 model = PointNet(num_classes=2)
-model = torch.load('demo1.pth')
+# model = torch.load('demo1.pth')
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-num_epochs = 150
+num_epochs = 120
 for epoch in range(num_epochs):
     model.train()
     running_loss = 0.0
