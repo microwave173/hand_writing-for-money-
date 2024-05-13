@@ -108,7 +108,7 @@ model = PointNet(num_classes=2)
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-num_epochs = 120
+num_epochs = 100
 for epoch in range(num_epochs):
     model.train()
     running_loss = 0.0
@@ -134,4 +134,4 @@ for epoch in range(num_epochs):
 
     # 打印每个epoch的损失
     print(f'Epoch {epoch + 1}/{num_epochs} - Loss: {average_loss:.4f}')
-    torch.save(model, 'demo1.pth')
+    torch.save(model, '己.pth')

@@ -101,16 +101,44 @@ class PointNet(nn.Module):
         return x, trans, trans_feat
 
 
-model = torch.load('demo1.pth')
 test_x = get_dataset.data_tensor
 test_y = get_dataset.label_tensor
-with torch.no_grad():
-    out, _, _ = model(test_x)
-    _, pred = torch.max(out.data, 1)
-    score = (pred == test_y).sum().item()
-    print(test_y)
-    print(pred)
-    for i in range(len(test_x)):
-        if int(pred[i]) != int(test_y[i]):
-            print(i, ",ans: ", test_y[i], ",pred: ", pred[i])
-    print("正确率: ", score / len(test_y))
+
+
+def test_all(ch):
+    model = torch.load(f'{ch}.pth')
+    with torch.no_grad():
+        out, _, _ = model(test_x)
+        _, pred = torch.max(out.data, 1)
+        score = (pred == test_y).sum().item()
+        print(test_y)
+        print(pred)
+        for i in range(len(test_x)):
+            if int(pred[i]) != int(test_y[i]):
+                print(i, ",ans: ", test_y[i], ",pred: ", pred[i])
+        print("正确率: ", score / len(test_y))
+
+
+def test_ch(ch, idx):
+    model = torch.load(f'{ch}.pth')
+    test_data = torch.tensor([test_x[idx].tolist()], dtype=torch.float32)
+    model.eval()
+    with torch.no_grad():
+        out, _, _ = model(test_data)
+        _, pred = torch.max(out.data, 1)
+        return pred[0] == 1
+
+
+ans_list = ['半', '半', '半', '奥', '奥', '奥', '己', '己', '己', '候', '候', '候', '大', '大', '大']
+res_list = []
+for i in range(len(ans_list)):
+    res = test_ch(ans_list[i], i).item()
+    res_list.append(res)
+
+for i in range(len(res_list)):
+    out_ch = '对'
+    if not res_list[i]:
+        out_ch = '错'
+    print(out_ch, end=' ')
+    if (i + 1) % 3 == 0:
+        print('')

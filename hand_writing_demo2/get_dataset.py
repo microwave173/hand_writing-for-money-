@@ -3,19 +3,20 @@ import matplotlib.pyplot as plt
 import torch
 from torch.utils.data import TensorDataset, DataLoader
 from torchvision import transforms
+import random
 import torchvision.transforms.functional as TF
 
 repeat_num = 1
-# file_list = [
-#     'train_sets/3.json',
-#     'train_sets/4.json',
-#     'train_sets/5.json'
-# ]
-
 file_list = [
-    # 'test_sets/3.json',
-    'train_sets/寒/1.json'
+    'test_sets/己/2.json'
 ]
+
+# file_list = [
+#     # 'test_sets/3.json',
+#     'train_sets/己/1.json',
+#     'train_sets/己/2.json',
+#     'train_sets/己/3.json'
+# ]
 
 
 data3 = []
@@ -104,6 +105,9 @@ def get_set(name):
                     data2.append(item)
             if len(data2) <= 0:
                 continue
+            while len(data2) > 400:
+                idx1 = random.randint(0, len(data2) - 1)
+                data2.pop(idx1)
             while len(data2) < 400:
                 data2.append([0., 0.])
             data2_ts = torch.tensor(data2, dtype=torch.float32).t()
